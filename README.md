@@ -41,10 +41,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossein-deyri" alt="hossein-deyri" /></a> </p>
 
 - 🌱 I’m currently learning **javascript, React, bootstrap**
-
+ 
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
+ 
 - 👨‍💻 All of my projects are available at [https://github.com/hossein-deyri/hossein-deyri](https://github.com/hossein-deyri/hossein-deyri)
 
-- 💬 Ask me about **Html5, Css3, Sass**
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/hossein-deyri/)
 
 - 📫 How to reach me **hossein.deyri@gmail.com**
 
@@ -62,21 +64,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossein-deyri&show_icons=true&locale=en" alt="hossein-deyri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-deyri&" alt="hossein-deyri" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-deyri&" alt="hossein-deyri" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-deyri&" alt="hossein-deyri" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-deyri&" alt="hossein-deyri" /></p>
+
 
 
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Portfolio](https://www.hoseindeyri.ir/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/hossein-deyri/)
+
+
+
+
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
