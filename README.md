@@ -68,33 +68,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **About me**
 
 - 💼 FrontEnd Engineer at [Portfolio](https://www.hoseindeyri.ir/)
