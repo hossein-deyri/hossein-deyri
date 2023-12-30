@@ -29,7 +29,7 @@
  
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
  
-- 👨‍💻 All of my projects are available at [here] [https://github.com/hossein-deyri/hossein-deyri]
+- 👨‍💻 All of my projects are available at [here] (https://github.com/hossein-deyri/hossein-deyri)
 
 - 💬 Ask me about anything 
 
