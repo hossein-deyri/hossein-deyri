@@ -1,6 +1,6 @@
 
 
-<h1 text-align='center>Hi 👋, I'm Hossein Deyri</h1>
+<h1 align="center">Hi 👋, I'm Hossein Deyri</h1>
 <h3>A passionate frontend developer from Iran</h3>
 
 ![Readme](https://github.com/hossein-deyri/hossein-deyri/assets/136192436/39cf772d-c794-4bdb-b034-ac87bdeb0287)
