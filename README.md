@@ -62,6 +62,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hossein-deyri&show_icons=true&locale=en" alt="hossein-deyri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-deyri&" alt="hossein-deyri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-deyri&" alt="hossein-deyri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-deyri&" alt="hossein-deyri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-deyri&" alt="hossein-deyri" /></p>
 
 
 
