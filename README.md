@@ -25,13 +25,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossein-deyri" alt="hossein-deyri" /></a> </p>
 
-- 🌱 I’m currently learning **javascript, React, bootstrap**
+- 🌱 I’m currently learning 
  
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
  
-- 👨‍💻 All of my projects are available at [https://github.com/hossein-deyri/hossein-deyri](https://github.com/hossein-deyri/hossein-deyri)
+- 👨‍💻 All of my projects are available at [here] [https://github.com/hossein-deyri/hossein-deyri](https://github.com/hossein-deyri/hossein-deyri)
 
-- 💬 Ask me about anything [here](https://www.linkedin.com/in/hossein-deyri/)
+- 💬 Ask me about anything 
 
 - 📫 How to reach me **hossein.deyri@gmail.com**
 
