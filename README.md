@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**hossein-deyri/hossein-deyri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 
-Here are some ideas to get you started:
+# Adrian Twarog
+I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
+
+## Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
+
