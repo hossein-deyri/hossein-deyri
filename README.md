@@ -5,7 +5,7 @@
 
 ![Readme](https://github.com/hossein-deyri/hossein-deyri/assets/136192436/39cf772d-c794-4bdb-b034-ac87bdeb0287)
 
- I'm  passionate frontend developer from Iran. I do content on Design and Development. I really enjoy learning languages and frameworks like React and Next.
+I'm Hosein Deyri, a passionate self-taught FrontEnd web developer and a freelance software engineer from Iran. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 ## About Me:
 - 🌱 I’m currently learning 
