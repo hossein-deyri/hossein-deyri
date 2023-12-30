@@ -1,4 +1,6 @@
-### Hi there 👋
+
+### Hi there 👋, my name is Hossein
+#### Design and Development
 
 ![Readme](https://github.com/hossein-deyri/hossein-deyri/assets/136192436/39cf772d-c794-4bdb-b034-ac87bdeb0287)
 
