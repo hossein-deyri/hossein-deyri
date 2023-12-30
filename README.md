@@ -44,7 +44,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossein-deyri&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hossein-deyri&show=reviews&theme=radical,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
@@ -52,12 +52,6 @@
 
 
 
-
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hossein-deyri&repo=Admin-Panel)](https://admin-panel-tl9z.vercel.app/)
 
 
 
