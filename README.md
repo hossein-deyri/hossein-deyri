@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Hossein Deyri</h1>
-<h3>A passionate frontend developer from Iran</h3>
+<h3></h3>
 
 ![Readme](https://github.com/hossein-deyri/hossein-deyri/assets/136192436/39cf772d-c794-4bdb-b034-ac87bdeb0287)
 
 # Hosein Deyri
- I do content on Design and Development. I really enjoy learning languages and frameworks like React and Next.
+ I'm  passionate frontend developer from Iran. I do content on Design and Development. I really enjoy learning languages and frameworks like React and Next.
 
 ## Skills and Experience
 * ⚛ React
