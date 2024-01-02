@@ -9,9 +9,7 @@ I'm Hosein Deyri, a passionate self-taught FrontEnd web developer and a freelanc
 
 ## About Me:
 - 🌱 I’m currently learning 
- 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
- 
+
 - 👨‍💻 All of my projects are available at here
 
 - 💬 Ask me about anything 
